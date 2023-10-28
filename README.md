@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning java and trying to build some projects with it.
 - 💞️ I’m looking to collaborate and learn alot on here.
 - 📫 How to reach me-gmail:- shrutisingh262005@gmail.com
+-                    linked in:-www.linkedin.com/in/shruti-singh-6224bb290
+
+- 
 
 <!---
 Shruti-Singh2/Shruti-Singh2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
